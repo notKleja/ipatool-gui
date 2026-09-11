@@ -1,5 +1,8 @@
 # IPATool for Mac
 
+> [!CAUTION]
+> **Using this app (or ipatool itself) can get your Apple Account disabled.** ipatool talks to Apple's private App Store endpoints as if it were an iOS device; Apple may flag that as suspicious activity and lock the account. A locked account can take **up to three days** to unlock through Apple Support, unless you can complete [Apple Account recovery](https://support.apple.com/HT204921) yourself. Use a secondary Apple Account you can afford to lose, and never one tied to payment methods, iCloud data or purchases you rely on. You use this software entirely at your own risk.
+
 A native macOS front end for [ipatool](https://github.com/majd/ipatool) by Majd Alfhaily. Search the App Store, browse the apps your Apple Account has acquired, download the latest or a historical build for iPhone, iPad, Apple TV, Apple Vision or Mac, and manage those downloads — without touching a terminal.
 
 IPATool is a GUI over legitimate ipatool functionality. It does **not** decrypt apps, strip FairPlay, bypass App Store licensing or payment, or bypass Apple Account authentication.
